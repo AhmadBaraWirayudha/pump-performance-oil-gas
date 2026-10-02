@@ -1,4 +1,4 @@
-# Stage 3 notes -- jet nozzle characterization and the oil & gas connection
+# Jet nozzle characterization and the oil & gas connection
 
 ## The connection
 A hydraulic jet pump -- a proven oil & gas artificial-lift technology in use since the 1930s -- is a nozzle, a throat and a diffuser: high-pressure power fluid (water- or oil-based) accelerates through the nozzle, the low-pressure region it creates entrains produced fluid at the throat (Venturi effect), and the diffuser turns the mixed stream's velocity back into pressure. The nozzle-to-throat area ratio is the primary design parameter (source: SPE JPT, *Jet Pumps: An Efficient Technology for Production Enhancement of Mature Oil Fields*, 2021). This bench data characterises only the nozzle stage -- radial velocity and momentum/energy flux of a free jet at three downstream distances -- with the same physics. It has no throat or diffuser, so it is not a jet-pump performance model.
