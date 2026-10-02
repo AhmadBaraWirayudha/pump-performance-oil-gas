@@ -146,9 +146,7 @@ The project began from an inherited, ~5,000-line pipeline that reported near-per
 "predicted" quantities. Two root problems turned up: a silent column mismapping (pump speed read as
 water temperature), and targets that were deterministic formulas of the features, so no model could
 fail. Rebuilding it, then extending it to crude oil and the jet sheet, was run as a sequence of
-sprints; [`docs/PORTFOLIO_WRITE_UP.md`](docs/PORTFOLIO_WRITE_UP.md) has the backlog, sprint reviews and
-retrospectives (including the errors found in earlier drafts of this very write-up), and interview-style
-STAR accounts of the main episodes.
+sprints.
 
 ## License
 
