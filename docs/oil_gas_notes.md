@@ -1,4 +1,4 @@
-# Stage 2 notes -- crude oil / produced water viscosity screening
+# Crude oil / produced water viscosity screening
 
 **Status: theoretical.** The bench only pumped water; nothing here is a crude-oil measurement. It applies the ANSI/HI 9.6.7 parameter-B method, with the Beggs-Robinson dead-oil viscosity correlation, to the stage-1 water curve at 1200 rpm.
 
