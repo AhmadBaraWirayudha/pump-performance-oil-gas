@@ -1,0 +1,41 @@
+{
+  "python": "3.12.3",
+  "numpy": "2.4.4",
+  "pandas": "3.0.2",
+  "scikit_learn": "1.8.0",
+  "matplotlib": "3.10.8",
+  "workbook_file": "Model.xlsx",
+  "pump_sheet": "Pump",
+  "n_rows": 24,
+  "speeds_rpm": [
+    1050.0,
+    1200.0,
+    1350.0
+  ],
+  "random_seed": 42,
+  "n_mc_samples": 4000,
+  "n_derived_fields": 33,
+  "oil_gas": {
+    "reference_speed_rpm": 1200.0,
+    "model_bep_q_lps": 1.0064677388077192,
+    "model_bep_h_m": 3.3060370779252626,
+    "bep_at_edge_of_tested_range": true,
+    "beggs_robinson_T_range_C": [
+      21.11111111111111,
+      146.11111111111111
+    ],
+    "beggs_robinson_API_range": [
+      16.0,
+      58.0
+    ],
+    "specific_speed_us": 801.9186987124882,
+    "water_B_at_model_bep": 1.7616906063845859
+  },
+  "jet": {
+    "sheet": "Jet Steam Fluid Mechanics Pract",
+    "n_experimental_rows": 23,
+    "radial_step_mm": 5.0,
+    "assumed_water_T_C": 20.0,
+    "water_density_kgm3": 998.1493872183399
+  }
+}

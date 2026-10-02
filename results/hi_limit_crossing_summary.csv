@@ -1,0 +1,4 @@
+Fluid,API,T_B40_C_at_QBEPx1,T_B40_C_at_QBEPx1_25,T_B40_C_at_QBEPx1_5,T_B40_C_at_QBEPx2,assessment,B_at_lower_valid_T
+Light crude - Minas 35 API,35.0,,,,,B stays below 40 across 15-80 degC,11.329091132244843
+Medium crude - 27 API,27.0,15.609076861417782,,,,"B reaches 40 at 15.6 degC, BELOW the Beggs-Robinson range (< 21.1 degC): extrapolated, not a finding",24.519076175271245
+Heavy crude - Duri 20.8 API,20.8,24.817263178778543,23.828157508794845,23.055978319773185,21.898462615653575,"B reaches 40 at 24.8 degC, INSIDE the Beggs-Robinson range (>= 21.1 degC): a valid-range screening flag",56.045394881620304

@@ -1,0 +1,8 @@
+# Lower bounds verified (full pipeline + tests) on:
+#   Python 3.11 and 3.12 with numpy 1.26 / pandas 2.1 / scikit-learn 1.3 / matplotlib 3.8 / openpyxl 3.1
+#   Python 3.12 with numpy 2.4 / pandas 3.0 / scikit-learn 1.8 / matplotlib 3.10 / openpyxl 3.1
+numpy>=1.26
+pandas>=2.1
+scikit-learn>=1.3
+matplotlib>=3.8
+openpyxl>=3.1

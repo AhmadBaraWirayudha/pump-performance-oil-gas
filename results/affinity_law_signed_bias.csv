@@ -1,0 +1,7 @@
+held_out_speed_rpm,fold_kind,source_speed_rpm,mean_signed_error_m
+1050.0,extrapolation,1200.0,-0.15506486765191801
+1050.0,extrapolation,1350.0,-0.4551938289059281
+1200.0,interpolation,1050.0,0.20253370468821907
+1200.0,interpolation,1350.0,-0.392005173882789
+1350.0,extrapolation,1050.0,0.7524632681914332
+1350.0,extrapolation,1200.0,0.4961315481954046
